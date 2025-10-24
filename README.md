@@ -1,4 +1,5 @@
-# Tria Task Contact Page
+# 🟡 Tria Task — Contact Management App  
+### 🔗 [Live Demo](https://tria-contact-frontend.vercel.app/)
 
 A **Contact Management Application** built for the Tria frontend task submission. This application allows users to **add, edit, delete, and manage their contacts**, mark favorites, and quickly search through their contact list.  
 
